@@ -11,7 +11,7 @@ gem 'rack-cors'
 gem 'devise'
 gem 'devise-jwt'
 gem 'jsonapi-serializer'
-gem 'dotenv'
+gem 'dotenv-rails'
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", ">= 5.0"
 
